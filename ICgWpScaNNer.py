@@ -6,7 +6,7 @@ sys.setdefaultencoding('utf8')
 
 Version = '0.2.0'  # Fixed Bugs
 
-# You are Free To Develop This Code brother But, Edit Copyright not Make from You Programmer ...
+# You are Free To Develop This Code brother But, Edit Copyright not Make You Programmer ...
 # Copyright Iran-Cyber.Net -- White Hat Hackers
 
 try:
